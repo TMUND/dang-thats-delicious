@@ -2,3 +2,4 @@
 variables.env
 .jshintrc
 .vscode/
+.DS_Store
